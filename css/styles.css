@@ -3,6 +3,11 @@
   text-align: center;
   color: #f0f8ff;
   font-family: "Courier New", Courier, monospace;
+  font-size: 100px;
+}
+
+.recipe-lists {
+  background-color: #f3b94e;
 }
 
 .recipes {
