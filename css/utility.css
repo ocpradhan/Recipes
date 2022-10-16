@@ -1,0 +1,25 @@
+/* Utility Classes */
+
+.font-current {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.primary-color {
+  background-color: #f3b94e;
+}
+
+.secondary-color {
+  color: #f1b25e;
+}
+
+.center {
+  text-align: center;
+}
+
+.font-size-primary {
+  font-size: 50px;
+}
+
+.font-size-secondary {
+  font-size: 30px;
+}

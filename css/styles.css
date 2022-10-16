@@ -1,22 +1,13 @@
 .heading-h1 {
-  background-color: #f3b94e;
-  text-align: center;
   color: #f0f8ff;
-  font-family: "Courier New", Courier, monospace;
   font-size: 100px;
-}
-
-.recipe-lists {
-  background-color: #f3b94e;
 }
 
 .recipes {
   list-style: none;
-  text-align: center;
 }
 
 .links {
-  font-family: "Courier New", Courier, monospace;
   text-decoration: none;
   color: aliceblue;
   font-size: 32px;
