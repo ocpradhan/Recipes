@@ -5,3 +5,12 @@
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
 }
+
+.center-image {
+  text-align: center;
+}
+
+.img {
+  width: 300px;
+  height: auto;
+}
