@@ -1,7 +1,8 @@
 /* Utility Classes */
 
 .font-current {
-  font-family: "Courier New", Courier, monospace;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 .primary-color {
@@ -22,4 +23,13 @@
 
 .font-size-secondary {
   font-size: 30px;
+}
+
+.font-size-tertiary {
+  font-size: 20px;
+}
+
+.img {
+  width: 300px;
+  height: auto;
 }
