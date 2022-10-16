@@ -5,6 +5,15 @@
   font-family: "Courier New", Courier, monospace;
 }
 
+.recipes {
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+}
+
 .links {
   font-family: "Courier New", Courier, monospace;
+  text-decoration: none;
+  color: black;
+  font-size: 32px;
 }
